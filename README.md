@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luis Felippe Marçal!
 
-<!--
-**LuismarcalDev/LuismarcalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full Stack** e **Web Design**  
+🚀 Atualmente estudando **React, Node.js e TypeScript**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas  
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,mysql,figma,html,css,js&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuismarcalDev&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisfelippedesenvolvedor/)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portifolio-og-4l8m.vercel.app/)  
+
+</div>
