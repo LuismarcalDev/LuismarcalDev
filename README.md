@@ -9,7 +9,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,mysql,figma,html,css,js&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,reactnative,nodejs,tailwind,mysql,figma,html,css,js&theme=dark)](https://skillicons.dev)
+
 
 </div>
 
