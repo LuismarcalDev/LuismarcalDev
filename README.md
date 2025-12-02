@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Luis Felippe Marçal!
 
 💻 **Desenvolvedor Full Stack** e **Web Design**  
-🚀 Atualmente estudando **React,React Native, Node.js e TypeScript**  
+🚀 Atualmente estudando **React TS,React Native, Node.js e TypeScript**  
 
 ---
 
