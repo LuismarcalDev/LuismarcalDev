@@ -2,7 +2,7 @@
 
 ---
 🎓 Tenho **20 anos** e estou estudando para me tornar um **Programador Full Stack** 💻 Curso **Análise e Desenvolvimento de Sistemas** pela Faculdade Donaduzzi  
-🔥 Estudo todos os dias para crescer como desenvolvedor e construir minha base no backend e frontend 
+ Estudo todos os dias para crescer como desenvolvedor e construir minha base no backend e frontend 
 
 ## Linguagens e Tecnologias
 
