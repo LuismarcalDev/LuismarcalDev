@@ -1,11 +1,10 @@
 # 👋 Olá, eu sou o **Luis Felippe Marçal**
 
 ---
-🎓 Tenho **20 anos** e estou estudando para me tornar um **Programador Full Stack**  
-💻 Curso **Análise e Desenvolvimento de Sistemas** pela Faculdade Donaduzzi  
+🎓 Tenho **20 anos** e estou estudando para me tornar um **Programador Full Stack** 💻 Curso **Análise e Desenvolvimento de Sistemas** pela Faculdade Donaduzzi  
 🔥 Estudo todos os dias para crescer como desenvolvedor e construir minha base no backend e frontend 
 
-## 🚀 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div style="display: inline-block">
   <img height="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -21,6 +20,10 @@
   <img height="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
+
+<br/>
+
+
 
 ---
 
@@ -39,28 +42,22 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuismarcalDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuismarcalDev&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contato
 
-<a href="mailto:luisfelippe55482@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/luisfelippedesenvolvedor/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<div align="left">
+  <a href="https://www.luismarcaldev.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:luisfelippe55482@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/luisfelippedesenvolvedor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <br/>
 
-
-
 ---
 
-⭐ *Obrigado por visitar! Sempre evoluindo e construindo meu futuro na programação.* 🚀
+⭐ *Obrigado por visitar! Sempre evoluindo e construindo meu futuro na programação.* 
