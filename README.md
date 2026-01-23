@@ -8,10 +8,7 @@
 
 👋 Estudo todos os dias para crescer como desenvolvedor e construir minha base no backend e frontend.
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luismarcaldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismarcaldev&layout=compact&theme=tokyonight"/>
-</div>
+
 
 ## Linguagens e Tecnologias
 
@@ -48,6 +45,11 @@
 </div>
 
 ---
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luismarcaldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismarcaldev&layout=compact&theme=tokyonight"/>
+</div>
 
 ## 📫 Contato
 
