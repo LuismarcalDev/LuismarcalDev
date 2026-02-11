@@ -21,9 +21,7 @@
   <img height="40" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img height="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img height="40" alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
-  <img height="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img height="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
@@ -35,13 +33,13 @@
 
 <div>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">  
-  APIs em Ruby — aprendendo backend e consumo de APIs
+ Implementação do JWT no ruby
   <br/><br/>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
-  React + TypeScript — evoluindo no frontend e aprendendo a criar interfaces para organizar o codigo
+  React + TypeScript — aprimorando comunicação entre react Ts e Ruby com sinatra
   <br/><br/>
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
-  MySQL — focando em criações de tabelas relacionadas
+  MySQL — aprendendo filtragem de dados avançadas
 </div>
 
 ---
